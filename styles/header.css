@@ -19,7 +19,7 @@ body {
   position: absolute;
   background-image: url("../assets/pictures/header-photo.png");
   background-position: 50% 0%;
-  filter: brightness(30%);
+  filter: brightness(20%);
 }
 
 .main-menu {

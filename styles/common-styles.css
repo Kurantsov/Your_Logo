@@ -1,0 +1,24 @@
+.section-title {
+  font-size: 30px;
+  letter-spacing: 2px;
+  line-height: 22px;
+  color: #212121;
+  font-weight: 700;
+  font-family: "Open Sans";
+  text-align: center;
+  margin-top: 125px;
+}
+
+.section-discription {
+  width: 641px;
+  height: 52px;
+  font-size: 15px;
+  letter-spacing: 1px;
+  line-height: 22px;
+  color: #212121;
+  font-weight: 400;
+  font-family: "Open Sans";
+  text-align: center;
+}
+
+
